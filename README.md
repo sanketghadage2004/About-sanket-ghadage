@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanketghadage2004
 - 👀 I’m interested in ... web devloping
-- 🌱 I’m currently learning ... Python Full Stack Devlopment
+- 🌱 I’m currently learning ... Python Full Stack Web Devlopment
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... 
 
