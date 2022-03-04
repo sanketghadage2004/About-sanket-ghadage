@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sanketghadage2004
-- 👀 I’m interested in ... web devloping
-- 🌱 I’m currently learning ... Python Full Stack Web Devlopment
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... 
+- 👋 Hi, I’m Sanket Ghadage
+- 👀 I’m A Python full stack web developer
+- 🌱 I’m currently Searching job role for  ... Python/ django Web developer
+- 💫I have good knowlwdge of front end technology and back end technology
+- 📫 How to reach me ... sanketghadage2004@gmail.com
 
 <!---
 sanketghadage2004/sanketghadage2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
